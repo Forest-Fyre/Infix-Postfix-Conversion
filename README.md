@@ -3,7 +3,6 @@
 This project is a C++ implementation that converts infix mathematical expressions (e.g., `A+B`) into postfix notation (e.g., `AB+`). The conversion process utilizes custom linked implementations of **stack** and **queue** data structures, which are essential for evaluating expressions without needing parentheses for operator precedence.
 
 ## Features
-
 - **Infix to Postfix Conversion**: Transforms standard infix expressions into postfix format.
 - **Custom Data Structures**: Implements linked stack and queue to facilitate expression manipulation.
 - **Operator Precedence Handling**: Ensures correct order of operations without parentheses.
